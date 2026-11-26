@@ -1,0 +1,15 @@
+accounts.json
+accounts.bak.json
+sessions/
+trash/
+banners/
+config_profiles/
+clip_thumbs/
+clips_discord/
+vault.enc
+build/
+dist/
+__pycache__/
+*.spec
+*.exe
+launcher_comptes.py

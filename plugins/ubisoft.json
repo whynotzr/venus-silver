@@ -1,0 +1,12 @@
+{
+  "id": "ubisoft",
+  "name": "Ubisoft Connect",
+  "subtitle": "Rainbow Six • Assassin's Creed",
+  "color": "#5b8cff",
+  "processes": [
+    "upc.exe",
+    "UplayWebCore.exe"
+  ],
+  "session_path": "%LOCALAPPDATA%\\Ubisoft Game Launcher\\users.dat",
+  "default_exe": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\upc.exe"
+}

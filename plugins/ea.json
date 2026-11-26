@@ -1,0 +1,12 @@
+{
+  "id": "ea",
+  "name": "EA App",
+  "subtitle": "Apex Legends • FC • Battlefield",
+  "color": "#ff4747",
+  "processes": [
+    "EADesktop.exe",
+    "EABackgroundService.exe"
+  ],
+  "session_path": "%LOCALAPPDATA%\\Electronic Arts\\EA Desktop\\user_settings.ini",
+  "default_exe": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EADesktop.exe"
+}

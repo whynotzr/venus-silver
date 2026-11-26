@@ -1,0 +1,12 @@
+{
+  "id": "battlenet",
+  "name": "Battle.net",
+  "subtitle": "Overwatch • Call of Duty • WoW",
+  "color": "#00aeff",
+  "processes": [
+    "Battle.net.exe",
+    "Agent.exe"
+  ],
+  "session_path": "%APPDATA%\\Battle.net\\Battle.net.config",
+  "default_exe": "C:\\Program Files (x86)\\Battle.net\\Battle.net Launcher.exe"
+}

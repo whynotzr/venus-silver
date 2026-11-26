@@ -1,0 +1,12 @@
+{
+  "id": "minecraft",
+  "name": "Minecraft",
+  "subtitle": "Launcher Officiel",
+  "color": "#4ade80",
+  "processes": [
+    "Minecraft.exe",
+    "MinecraftLauncher.exe"
+  ],
+  "session_path": "%APPDATA%\\.minecraft\\launcher_accounts_microsoft_store.json",
+  "default_exe": "C:\\XboxGames\\Minecraft Launcher\\Content\\Minecraft.exe"
+}
